@@ -4,7 +4,9 @@
 
 ## Computer Graphics
 
+
 * [SimpleVR](https://github.com/lidan233/VR) - This project is a simple VR implementation. 
+* [Animation](https://github.com/lidan233/CG) - This is a project about computer animation (metaball and SPH). 
 * [MeshFormer](https://github.com/MeshFormer/MeshFormer) - This project is the offical implementation of paper "High-resolution mesh segmentation". 
 * [newCpuRender](https://github.com/lidan233/newCpuRender)  - The project is a fast rasterizer with BVH and different ZBuffers. 
 * [swc2obj](https://github.com/lidan233/swc2obj) - Expand the line to mesh with metaball algorithm in more than 10T data. The biggest challenge is to ensure the water tightness of mesh.   
