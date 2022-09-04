@@ -12,7 +12,7 @@
 * [objCDchecker](https://github.com/lidan233/objCDchecker) - Fast collision detection using BVH and Cuda.
 * [BezierAndBspline](https://github.com/lidan233/BezierAndBspline)  - Different implements for Bezier and Bspline. 
 * [Cuda2Opengl](https://github.com/lidan233/cudaAlgorithms/tree/master/execute) - Some basis algorithm implemented by cuda. In this project, I also implement the interaction between cuda context and opengl context. 
-* [supermario](https://github.com/lidan233/lidan_super_mario) - a simple game named super mario. 
+* [supermario](https://github.com/lidan233/lidan_super_mario) - A simple game named super mario. 
 * [DelaunayTriangle](https://github.com/lidan233/surfaceReconstruct1DelaunayTriangle/) - Triangulate points using Divide and conquer algorithm.
 * [render](https://github.com/lidan233/render) - Render teeth with BRDF and BSDF. 
 * [surfaceReconstruct2Marchingcube](https://github.com/lidan233/surfaceReconstruct2Marchingcube) - Basis marching cube algorithm. 
