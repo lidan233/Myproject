@@ -3,6 +3,9 @@
 > A curated list of My projects.
 
 ## Computer Graphics
+
+* [SimpleVR](https://github.com/lidan233/VR) - This project is a simple VR implementation. 
+* [MeshFormer](https://github.com/MeshFormer/MeshFormer) - This project is the offical implementation of paper "High-resolution mesh segmentation". 
 * [newCpuRender](https://github.com/lidan233/newCpuRender)  - The project is a fast rasterizer with BVH and different ZBuffers. 
 * [swc2obj](https://github.com/lidan233/swc2obj) - Expand the line to mesh with metaball algorithm in more than 10T data. The biggest challenge is to ensure the water tightness of mesh.   
 * [eulerOperator](https://github.com/lidan233/eulerOperator)  - CAD project for basis  euler operator. 
@@ -13,6 +16,7 @@
 * [DelaunayTriangle](https://github.com/lidan233/surfaceReconstruct1DelaunayTriangle/) - Triangulate points using Divide and conquer algorithm.
 * [render](https://github.com/lidan233/render) - Render teeth with BRDF and BSDF. 
 * [surfaceReconstruct2Marchingcube](https://github.com/lidan233/surfaceReconstruct2Marchingcube) - Basis marching cube algorithm. 
+
 
 
 ## Other project
